@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![Chamseddine Bouhouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamsedine-bouhouch&hide=stars,prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chamseddine Bouhouch's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamsedine-bouhouch&hide=stars,prs,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
