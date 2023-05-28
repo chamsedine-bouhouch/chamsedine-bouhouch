@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chamsedine Bouhouch
-- 👀 I’m interested in fullstack development
+- 👀 I’m a Fullstack Developer
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me : bouhouchchamseddine@gmail.com
